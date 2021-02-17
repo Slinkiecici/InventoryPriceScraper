@@ -1,0 +1,6 @@
+grab==0.6.41
+pandas==1.2.1
+odoo_client_lib==1.2.2
+wxPython==4.1.1
+mammoth==1.4.15
+beautifulsoup4==4.9.3
